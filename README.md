@@ -1,0 +1,1 @@
+This project simulates an e-commerce event pipline used to analyze user behavior, conversion funnels, and revenue performance. The system generates realistic user interaction events, ingests them into a data warehouse, and transforms them into analytics read tables for business insights
